@@ -9,5 +9,4 @@ int main() {
 	c = 8;
 	d = 10;
 	printf(a1 + b + c + d);
-	return 0
 }
