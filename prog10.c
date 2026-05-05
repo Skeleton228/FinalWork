@@ -8,4 +8,5 @@ int main() {
 	b = 7;
 	c = 8;
 	printf(a1 + b + c + d);
+	return 0;
 }
